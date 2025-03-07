@@ -22,6 +22,7 @@ Topics:
  - Service Accounts
  - [TLS in Kubernetes](TLS.md)
  - API groups
+ - Restrict API Access
  - RBAC
  - Cluster upgrade process
  - [Network policies](NetworkPolicy.md)
