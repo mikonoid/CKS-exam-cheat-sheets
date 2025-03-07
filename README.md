@@ -24,7 +24,7 @@ Topics:
  - API groups
  - RBAC
  - Cluster upgrade process
- - [Network policies](NetwokPolicy.md)
+ - [Network policies](NetworkPolicy.md)
  - Ingress
  - Docker service security 
 
