@@ -20,12 +20,12 @@ Topics:
  - CIS benchmark
  - Kube-bench
  - Service Accounts
- - [TLS in Kubernetes](TLS.md)
+ - [TLS in Kubernetes](cluster_setup/TLS.md)
  - API groups
  - - Restrict API Access
  - RBAC
  - Cluster upgrade process
- - [Network policies](NetworkPolicy.md)
+ - [Network policies](cluster_setup/NetworkPolicy.md)
  - Ingress
  - Docker service security 
 
