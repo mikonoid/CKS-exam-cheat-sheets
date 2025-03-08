@@ -24,6 +24,7 @@ Topics:
  - [Authorization](cluster_setup/autorisation.md)
  - [RBAC](cluster_setup/rbac.md)
  - Cluster upgrade process
+ - Kubelet
  - [Network policies](cluster_setup/NetworkPolicy.md)
  - [Ingress](cluster_setup/ingress.md.md)
  - Docker service security 
