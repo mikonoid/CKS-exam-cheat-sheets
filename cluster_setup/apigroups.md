@@ -1,4 +1,3 @@
-Here's a **cheat sheet** for **API Groups in Kubernetes**, specifically tailored for the **CKS exam**. This will help you understand **how API groups work, their purpose, and how to manage them securely**.  
 
 ---
 
