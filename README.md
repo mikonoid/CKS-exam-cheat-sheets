@@ -23,7 +23,7 @@ Topics:
  - [API groups](cluster_setup/apigroups.md)
  - [Authorization](cluster_setup/autorisation.md)
  - [RBAC](cluster_setup/rbac.md)
- - Cluster upgrade process
+ - [Cluster upgrade process](cluster_setup/upgrade.md)
  - Kubelet
  - [Network policies](cluster_setup/NetworkPolicy.md)
  - [Ingress](cluster_setup/ingress.md.md)
