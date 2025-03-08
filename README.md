@@ -17,12 +17,12 @@ Topics:
 
 ## Custer Setup and Hardering
 
- - CIS benchmark and kube-bench
+ - [CIS benchmark and kube-bench](cluster_setup/kube-bench.md)
  - Service Accounts
  - [TLS in Kubernetes](cluster_setup/TLS.md)
  - API groups
  - Restrict API Access
- - RBAC
+ - [RBAC](cluster_setup/kube-bench.md)
  - Cluster upgrade process
  - [Network policies](cluster_setup/NetworkPolicy.md)
  - Ingress
