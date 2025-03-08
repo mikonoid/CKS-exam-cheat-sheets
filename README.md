@@ -25,7 +25,7 @@ Topics:
  - [RBAC](cluster_setup/rbac.md)
  - Cluster upgrade process
  - [Network policies](cluster_setup/NetworkPolicy.md)
- - Ingress
+ - [Ingress](cluster_setup/ingress.md.md)
  - Docker service security 
 
 ## System Hardering
