@@ -20,8 +20,8 @@ Topics:
  - [CIS benchmark and kube-bench](cluster_setup/kube-bench.md)
  - [Service Accounts](cluster_setup/sa.md)
  - [TLS in Kubernetes](cluster_setup/TLS.md)
- - API groups
- - Authorization
+ - [API groups](cluster_setup/apigroups.md)
+ - [Authorization](cluster_setup/autorisation.md)
  - [RBAC](cluster_setup/rbac.md)
  - Cluster upgrade process
  - [Network policies](cluster_setup/NetworkPolicy.md)
