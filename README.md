@@ -21,7 +21,7 @@ Topics:
  - [Service Accounts](cluster_setup/sa.md)
  - [TLS in Kubernetes](cluster_setup/TLS.md)
  - API groups
- - Restrict API Access
+ - Authorization
  - [RBAC](cluster_setup/rbac.md)
  - Cluster upgrade process
  - [Network policies](cluster_setup/NetworkPolicy.md)
