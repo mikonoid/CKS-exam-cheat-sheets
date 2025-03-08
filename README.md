@@ -22,7 +22,7 @@ Topics:
  - [TLS in Kubernetes](cluster_setup/TLS.md)
  - API groups
  - Restrict API Access
- - [RBAC](cluster_setup/kube-bench.md)
+ - [RBAC](cluster_setup/rbac.md)
  - Cluster upgrade process
  - [Network policies](cluster_setup/NetworkPolicy.md)
  - Ingress
