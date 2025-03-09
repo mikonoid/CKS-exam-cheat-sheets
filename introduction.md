@@ -1,43 +1,70 @@
-The **Certified Kubernetes Security Specialist (CKS)** is a prestigious certification offered by the Linux Foundation and the Cloud Native Computing Foundation (CNCF). It validates an individual's expertise in securing container-based applications and Kubernetes platforms throughout build, deployment, and runtime phases.
+# Certified Kubernetes Security Specialist (CKS) Exam Guide
 
-**Exam Overview:**
+## 📌 Exam Overview
 
-- **Format:** The CKS is an online, proctored, performance-based exam where candidates solve multiple tasks from a command line running Kubernetes. citeturn0search0
+The **Certified Kubernetes Security Specialist (CKS)** is a prestigious certification offered by the Linux Foundation and CNCF. It validates expertise in securing container-based applications and Kubernetes platforms across build, deployment, and runtime phases.
 
-- **Duration:** Candidates have 2 hours to complete the exam.
+- **Format:** Online, proctored, performance-based (command-line tasks).
+- **Duration:** 2 hours.
+- **Prerequisite:** A valid **Certified Kubernetes Administrator (CKA)** certification.
+- **Official Site:** [Linux Foundation CKS](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/)
 
-- **Prerequisite:** A current **Certified Kubernetes Administrator (CKA)** certification is required before scheduling the CKS exam. citeturn0search0
+---
 
-**Exam Topics:**
+## 📖 Exam Topics & Weightage
 
-The CKS exam encompasses various domains to ensure comprehensive coverage of Kubernetes security:
+The CKS exam covers various security aspects of Kubernetes:
 
-1. **Cluster Setup (10%)**: Focuses on network security policies, CIS benchmark reviews, secure Ingress setup with TLS, and protecting node metadata and endpoints. citeturn0search1
+### 1️⃣ Cluster Setup (10%)
+- Secure network policies.
+- Review CIS Kubernetes benchmarks.
+- Secure Ingress setup (TLS).
+- Protect node metadata and endpoints.
 
-2. **Cluster Hardening (15%)**: Involves using Role-Based Access Controls (RBAC) to minimize exposure and other hardening techniques. citeturn0search1
+### 2️⃣ Cluster Hardening (15%)
+- Implement RBAC to restrict access.
+- Secure etcd, API server, and kubelet.
 
-3. **System Hardening (15%)**: Covers securing the underlying systems where Kubernetes runs.
+### 3️⃣ System Hardening (15%)
+- Secure underlying OS and configurations.
 
-4. **Minimize Microservice Vulnerabilities (20%)**: Addresses best practices to reduce vulnerabilities within microservices.
+### 4️⃣ Minimize Microservice Vulnerabilities (20%)
+- Secure application images.
+- Use security policies for workloads.
 
-5. **Supply Chain Security (20%)**: Focuses on securing the software supply chain, ensuring the integrity of code and dependencies.
+### 5️⃣ Supply Chain Security (20%)
+- Secure software supply chain.
+- Image signing and verification.
 
-6. **Monitoring, Logging, and Runtime Security (20%)**: Emphasizes the importance of monitoring and logging for security purposes during runtime.
+### 6️⃣ Monitoring, Logging, and Runtime Security (20%)
+- Implement security logging and monitoring.
+- Use tools like Falco, AppArmor, and seccomp.
 
-**Cost:**
+---
 
-The exam fee is **$395 USD**. Occasionally, discounts may be available during promotional periods or events. citeturn0search4
+## 💰 Exam Cost
 
-**Scheduling the Exam:**
+- **$395 USD**
+- Occasional discounts may be available.
 
-1. **Prerequisite Verification:** Ensure you have an active CKA certification before attempting to schedule the CKS exam. citeturn0search0
+---
 
-2. **Purchase the Exam:** Visit the [Linux Foundation's certification portal](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/) to purchase the CKS exam.
+## 📝 How to Schedule the Exam
 
-3. **Scheduling:** After purchase, you'll receive instructions to schedule your exam through the provided platform.
+1. **Check Prerequisites:** Ensure you have an **active CKA certification**.
+2. **Purchase Exam:** Buy the exam from the [Linux Foundation](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/).
+3. **Schedule the Exam:** After purchase, you’ll get instructions to schedule it.
+4. **Preparation:** Utilize the [Killer.sh exam simulator](https://killer.sh/) (two attempts, 36 hours each).
+5. **Exam Day:** Ensure:
+   - Stable internet connection.
+   - Quiet environment.
+   - Compliance with proctoring requirements.
 
-4. **Preparation:** Utilize the exam simulator provided by Killer.sh, which offers two simulation attempts, each granting 36 hours of access. citeturn0search0
+---
 
-5. **Exam Day:** Ensure a stable internet connection and a quiet environment. The exam is proctored online, so follow all provided guidelines to maintain the integrity of the examination process.
+## 🔗 Useful Resources
 
-For comprehensive details and resources, refer to the [official CKS page](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/). 
+- [Official CKS Exam Guide](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/)
+- [Kubernetes Security Best Practices](https://kubernetes.io/docs/concepts/security/)
+- [Killer.sh CKS Simulator](https://killer.sh/)
+
