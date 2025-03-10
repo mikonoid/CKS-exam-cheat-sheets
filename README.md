@@ -24,10 +24,10 @@ Topics:
  - [Authorization](cluster_setup/autorisation.md)
  - [RBAC](cluster_setup/rbac.md)
  - [Cluster upgrade process](cluster_setup/upgrade.md)
- - Kubelet
+ - [Kubelet](cluster_setup/Kubelet.md)
  - [Network policies](cluster_setup/NetworkPolicy.md)
  - [Ingress](cluster_setup/ingress.md.md)
- - Docker service security 
+ - [Docker service security](cluster_setup/docker-service.md) 
 
 ## System Hardering
 
