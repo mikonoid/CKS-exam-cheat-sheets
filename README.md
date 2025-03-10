@@ -27,7 +27,9 @@ Topics:
  - [Kubelet](cluster_setup/Kubelet.md)
  - [Network policies](cluster_setup/NetworkPolicy.md)
  - [Ingress](cluster_setup/ingress.md.md)
- - [Docker service security](cluster_setup/docker-service.md) 
+ - [Docker service security](cluster_setup/docker-service.md)
+ - Kubectl Proxy & Port Forward
+ - Auditing
 
 ## System Hardering
 
