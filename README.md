@@ -33,6 +33,14 @@ Topics:
 
 ## System Hardering
 
+ - Apparmor
+ - Seccomp
+ - Limit node access
+ - SSH hardering
+ - Minimize external access to network
+ - Restrict Kernel modules
+ - Linux privilege escalation
+
 
 
 ## Minimize microservice Vulnerabilities
