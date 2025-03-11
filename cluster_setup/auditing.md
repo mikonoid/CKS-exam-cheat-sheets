@@ -71,7 +71,5 @@ cat /var/log/prod-secrets.log
 - **Send logs to a centralized SIEM** for real-time monitoring and alerting.
 - **Ensure audit logs are tamper-proof**, e.g., by using a dedicated logging backend.
 
----
 
-This cheat sheet provides a quick reference to setting up Kubernetes auditing, focusing on monitoring sensitive actions like secret deletions in production namespaces. Implementing these practices strengthens security and compliance in Kubernetes clusters.
 
