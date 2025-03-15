@@ -13,7 +13,7 @@ Topics:
 
 ## CKS exam introduction
 
- - [Introduction] (cluster_setup/introduction.md)
+ - [Introduction](cluster_setup/introduction.md)
 
 ## Custer Setup and Hardering
 
