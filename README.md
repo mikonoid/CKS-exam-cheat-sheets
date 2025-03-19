@@ -33,6 +33,7 @@ Topics:
 
 ## System Hardering
 
+ - Minimize host OS footprint
  - Apparmor
  - Seccomp
  - Limit node access
