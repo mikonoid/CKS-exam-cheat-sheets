@@ -1,4 +1,4 @@
-# CKS-cheat-sheets
+# CKS exam preparation cheat sheets
 Preparation for CKS exam (Certified Kubernetes Security Specialist)
 
 Topics:
