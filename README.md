@@ -33,14 +33,14 @@ Topics:
 
 ## System Hardering
 
- - Minimize host OS footprint
- - Apparmor
- - Seccomp
- - Limit node access
- - SSH hardering
- - Minimize external access to network
- - Restrict Kernel modules
- - Linux privilege escalation
+ - [Minimize host OS footprint](system_hardering/os_footprint.md)
+ - [Apparmor](system_hardering/apparmor.md)
+ - [Seccomp](system_hardering/seccomp.md)
+ - [Limit node access](system_hardering/limit_node_access.md)
+ - [SSH hardering](system_hardering/ssh_hardering.md)
+ - [Minimize external access to network](system_hardering/minimize_network_access.md)
+ - [Restrict Kernel modules](system_hardering/restrict_kernel.md)
+ - [Linux privilege escalation](system_hardering/linux_privileges.md)
 
 
 
@@ -51,6 +51,8 @@ Topics:
 ## Monitoring, Logging and Runtime security
 
 ## Exam tips
+
+ - [External monitor for CKS/CKS/CKAD exams](https://www.reddit.com/r/kubernetes/comments/w5h1u6/my_cka_exam_is_tomorrow_can_i_use_external/) 
 
 
 
