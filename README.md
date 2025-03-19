@@ -46,9 +46,35 @@ Topics:
 
 ## Minimize microservice Vulnerabilities
 
+ - Security Contexts
+ - Adminssions Controllers
+ - Pod security policies
+ - Open Policy Agent OPA
+ - gVisor
+ - kata Containers
+ - Control Plane isolation
+ - Data plane Isolation
+ - Pod-to-pod encryption
+ - Cilium
+ - QoS
+
 ## Supply chain security
+ 
+ - Supply chain security
+ - SBOM
+ - Trivy
+ - Image security
+ - Kubesec scan
+   
+
 
 ## Monitoring, Logging and Runtime security
+
+  - Falco
+  - Mutable and Immutable infrastructure
+  - Sysdig
+  - Audit log
+
 
 ## Exam tips
 
