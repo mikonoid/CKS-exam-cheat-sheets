@@ -46,7 +46,7 @@ Topics:
 
 ## Minimize microservice Vulnerabilities
 
- - Security Contexts
+ - [Security Contexts](minimize_microservice_vulnerabilities/security_context.md)
  - Adminssions Controllers
  - Pod security policies
  - Open Policy Agent OPA
