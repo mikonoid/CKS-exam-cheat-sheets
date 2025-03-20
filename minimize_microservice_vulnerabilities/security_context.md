@@ -1,5 +1,5 @@
 ```markdown
-# CKS Cheat Sheet: Minimize Microservice Vulnerabilities - Security Context
+#  Security Context
 
 ## 1. Security Context Overview
 Security Context defines privilege and access control settings for pods or containers in Kubernetes.
