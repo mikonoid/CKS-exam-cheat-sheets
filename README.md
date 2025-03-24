@@ -47,16 +47,16 @@ Topics:
 ## Minimize microservice Vulnerabilities
 
  - [Security Contexts](minimize_microservice_vulnerabilities/security_context.md)
- - Adminssions Controllers
- - Pod security policies
- - Open Policy Agent OPA
- - gVisor
- - kata Containers
- - Control Plane isolation
- - Data plane Isolation
- - Pod-to-pod encryption
- - Cilium
- - QoS
+ - [Adminssions Controllers](minimize_microservice_vulnerabilities/admission_controllers.md)
+ - [Pod security policies](minimize_microservice_vulnerabilities/pod_sec_policies.md)
+ - [Open Policy Agent OPA](minimize_microservice_vulnerabilities/opa.md)
+ - [gVisor](minimize_microservice_vulnerabilities/gvisor.md)
+ - [kata Containers](minimize_microservice_vulnerabilities/kata_containers.md)
+ - [Control Plane isolation](minimize_microservice_vulnerabilities/controlplane_isolation.md)
+ - [Data plane Isolation](minimize_microservice_vulnerabilities/dataplane_isolation.md)
+ - [Pod-to-pod encryption](minimize_microservice_vulnerabilities/pod-to-pod-encryption.md)
+ - [Cilium](minimize_microservice_vulnerabilities/cilium.md)
+ - [QoS](minimize_microservice_vulnerabilities/qos.md)
 
 ## Supply chain security
  
