@@ -5,10 +5,10 @@ Quality of Service (QoS) in Kubernetes ensures that Pods get the appropriate amo
 
 ## Why is QoS Important for CKS?
 
-✅ Prevents resource starvation of critical workloads.
-✅ Helps optimize cluster performance.
-✅ Ensures high-priority workloads get guaranteed resources.
-✅ Reduces risk of eviction due to resource contention.
+ - Prevents resource starvation of critical workloads.
+ - Helps optimize cluster performance.
+ - Ensures high-priority workloads get guaranteed resources.
+ -  Reduces risk of eviction due to resource contention.
 
 ## Kubernetes QoS Classes
 Kubernetes assigns one of the following QoS classes to a Pod based on its resource requests and limits:
