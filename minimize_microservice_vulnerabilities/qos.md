@@ -4,6 +4,7 @@
 Quality of Service (QoS) in Kubernetes ensures that Pods get the appropriate amount of CPU and memory based on their resource requests and limits. It helps in **scheduling, resource management, and eviction decisions**.
 
 ## Why is QoS Important for CKS?
+
 ✅ Prevents resource starvation of critical workloads.
 ✅ Helps optimize cluster performance.
 ✅ Ensures high-priority workloads get guaranteed resources.
