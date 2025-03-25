@@ -4,10 +4,10 @@
 Kubesec is a security tool that analyzes Kubernetes YAML manifests for security risks and compliance issues. It helps identify weaknesses in Pod, Deployment, and other resource configurations.
 
 ## Why Use Kubesec for CKS?
-✅ Detects **misconfigurations** in Kubernetes resources.
-✅ Provides **risk scores** based on security best practices.
-✅ Ensures compliance with **CIS Benchmarks and Kubernetes security guidelines**.
-✅ Helps prevent **privilege escalation and insecure configurations**.
+ - Detects **misconfigurations** in Kubernetes resources.
+ - Provides **risk scores** based on security best practices.
+ - Ensures compliance with **CIS Benchmarks and Kubernetes security guidelines**.
+ - Helps prevent **privilege escalation and insecure configurations**.
 
 ---
 ## Installing Kubesec
