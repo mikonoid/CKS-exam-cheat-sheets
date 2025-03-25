@@ -4,10 +4,10 @@
 [Trivy](https://aquasecurity.github.io/trivy/) is an open-source vulnerability scanner for containers, Kubernetes, and infrastructure-as-code (IaC). It helps detect security risks and misconfigurations before deployment.
 
 ## Why is Trivy Important for CKS?
-✅ **Scans container images** for vulnerabilities.
-✅ **Checks Kubernetes configurations** for security issues.
-✅ **Integrates with CI/CD pipelines** to prevent insecure deployments.
-✅ **Supports multiple scanning targets**, including filesystems, Git repositories, and cloud services.
+ - **Scans container images** for vulnerabilities.
+ - **Checks Kubernetes configurations** for security issues.
+ - **Integrates with CI/CD pipelines** to prevent insecure deployments.
+ - **Supports multiple scanning targets**, including filesystems, Git repositories, and cloud services.
 
 ---
 ## Installing Trivy
