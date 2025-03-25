@@ -4,10 +4,10 @@
 A **Software Bill of Materials (SBOM)** is a machine-readable list of all components, libraries, and dependencies used in a software system. It helps organizations track vulnerabilities, ensure compliance, and improve software supply chain security.
 
 ## Why is SBOM Important for CKS?
-✅ **Identifies vulnerable dependencies** in container images.
-✅ **Enhances supply chain security** by tracking open-source components.
-✅ **Facilitates compliance** with frameworks like **SLSA, NIST SSDF, and CIS Benchmarks**.
-✅ **Improves transparency** in software dependencies.
+ - **Identifies vulnerable dependencies** in container images.
+ - **Enhances supply chain security** by tracking open-source components.
+ - **Facilitates compliance** with frameworks like **SLSA, NIST SSDF, and CIS Benchmarks**.
+ - **Improves transparency** in software dependencies.
 
 ---
 ## SBOM Formats
