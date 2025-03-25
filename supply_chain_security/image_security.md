@@ -4,10 +4,10 @@
 Image security in Kubernetes ensures that container images are **trusted, verified, and free from vulnerabilities** before deployment. It helps prevent **supply chain attacks, unauthorized modifications, and runtime risks**.
 
 ## Why is Image Security Important for CKS?
-✅ Prevents **container image tampering** and unauthorized modifications.
-✅ Reduces the risk of **vulnerable dependencies** in production.
-✅ Ensures compliance with **security best practices** (e.g., CIS, SLSA, NIST SSDF).
-✅ Protects Kubernetes clusters from **malicious images**.
+ - Prevents **container image tampering** and unauthorized modifications.
+ - Reduces the risk of **vulnerable dependencies** in production.
+ - Ensures compliance with **security best practices** (e.g., CIS, SLSA, NIST SSDF).
+ - Protects Kubernetes clusters from **malicious images**.
 
 ---
 ## Key Aspects of Image Security
