@@ -4,10 +4,10 @@
 Supply Chain Security in Kubernetes ensures the integrity, authenticity, and security of software components across the entire development lifecycle—**from source code to deployment**.
 
 ## Why is Supply Chain Security Important for CKS?
-✅ Prevents **supply chain attacks** like dependency poisoning and build system compromises.
-✅ Ensures **image integrity** and prevents unauthorized modifications.
-✅ Verifies that only **trusted artifacts** are deployed to production.
-✅ Helps comply with security standards like **SLSA, NIST SSDF, and CIS Benchmarks**.
+- Prevents **supply chain attacks** like dependency poisoning and build system compromises.
+- Ensures **image integrity** and prevents unauthorized modifications.
+- Verifies that only **trusted artifacts** are deployed to production.
+- Helps comply with security standards like **SLSA, NIST SSDF, and CIS Benchmarks**.
 
 ---
 ## Key Components of Kubernetes Supply Chain Security
