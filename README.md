@@ -60,11 +60,11 @@ Topics:
 
 ## Supply chain security
  
- - Supply chain security
- - SBOM
- - Trivy
- - Image security
- - Kubesec scan
+ - [Supply chain security](supply_chain_security/supply_chain_security.md)
+ - [SBOM](supply_chain_security/sbom.md)
+ - [Trivy](supply_chain_security/trivy.md)
+ - [Image security](supply_chain_securityimage_security.md)
+ - [Kubesec scan](supply_chain_security/kubesec.md)
    
 
 
