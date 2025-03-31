@@ -70,15 +70,31 @@ Topics:
 
 ## Monitoring, Logging and Runtime security
 
-  - Falco
-  - Mutable and Immutable infrastructure
-  - Sysdig
-  - Audit log
+  - [Falco](monitoring_logging/falco.md)
+  - [Mutable and Immutable infrastructure](monitoring_logging/mutable_immutable_infra.md)
+  - [Sysdig](monitoring_logging/sysdig.md)
+  - [Audit log](monitoring_logging/audit_log.md)
 
 
 ## Exam tips
 
  - [External monitor for CKS/CKS/CKAD exams](https://www.reddit.com/r/kubernetes/comments/w5h1u6/my_cka_exam_is_tomorrow_can_i_use_external/) 
 
+## Official Documentation
 
+- [Kubernetes Official Documentation](https://kubernetes.io/docs/home/)
+- [Kubernetes Security Documentation](https://kubernetes.io/docs/concepts/security/)
+- [Kubernetes Security Best Practices](https://kubernetes.io/docs/concepts/security/best-practices/)
+- [Kubernetes Security Checklist](https://kubernetes.io/docs/concepts/security/security-checklist/)
+
+## Community-Driven Study Guides
+
+- [CKS Preparation Guide (GitHub)](https://github.com/leandrocostam/cks-preparation-guide)
+- [CKS Exam Study Guide by DevOpsCube](https://devopscube.com/cks-exam-guide-tips/)
+
+## Video Resources
+
+- [PASS your Certified Kubernetes Security Specialist Exam](https://www.youtube.com/watch?v=_l232KiJHNA)
+- [Kubernetes CKS Full Course Theory + Practice + Browser Scenarios](https://www.youtube.com/watch?v=d9xfB5qaOfg)
+- [How to pass the CKS exam](https://www.youtube.com/watch?v=2CnZarRBBBE)
 
